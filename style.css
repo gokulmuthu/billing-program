@@ -1,0 +1,19 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url(pic1.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+#frm{
+	width: 20%;
+	margin: 100px auto;
+}
+#btn{
+	color: #fff;
+	background:#337ab7;
+	padding: 5px;
+	margin-left: 65%;
+}
